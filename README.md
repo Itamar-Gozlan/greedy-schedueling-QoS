@@ -28,11 +28,13 @@ Since there are default values for the simulator running ``python main.py`` shou
 ``-plot_scheduling`` - True/False plot of scheduling graph, argument type is bool,and the default value is True <br>
 
 ### Plot examples
+
 #### Stage Phase Constant (1) Size:<br>
 - DAG: <br>
 <img src="figures/dag_constant.jpg" alt="a"/>
 - Scheduling: <br>
 <img src="figures/sched_constant.jpg" alt="a"/>
+
 #### Stage Phase Random Size:<br>
 - DAG: <br>
 <img src="figures/dag_random.jpg" alt="a"/>
