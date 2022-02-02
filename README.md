@@ -31,11 +31,10 @@ Since there are default values for the simulator running ``python main.py`` shou
 #### Stage Phase Constant (1) Size:<br>
 - DAG: <br>
 <img src="figures/dag_constant.jpg" alt="a"/>
-- Scheduling: <br>>
+- Scheduling: <br>
 <img src="figures/sched_constant.jpg" alt="a"/>
-- 
 #### Stage Phase Random Size:<br>
-- DAG: <br>>
+- DAG: <br>
 <img src="figures/dag_random.jpg" alt="a"/>
 - Scheduling: <br>
 <img src="figures/sched_random.jpg" alt="a"/>
